@@ -4,7 +4,7 @@
 ## 💻 Projeto
 Esse foi um projeto para praticar um pouco de logica e meu entendimento sobre POO
 onde é possivel jogar uma versão bem simplificada de uma partida de Blackjack também conhecido
-como 21
+como 21 [Clique aqui para jogar](https://black-jack-opal.vercel.app/)
 
 ## 🚀 Tecnologias
 Projeto feito apenas com
